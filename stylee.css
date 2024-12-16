@@ -1,0 +1,6 @@
+@media(max-width:370px){
+    .box img{
+        height: 100px;
+        width: 80%;
+    }
+}
